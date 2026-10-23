@@ -4,7 +4,7 @@
 
 This was a group project. Kailas Krishnan and his teammates worked together across the analysis, modelling, and dashboard development. These were shared responsibilities; the project is presented here as collaborative work rather than an individual submission.
 
-The shared Tableau dashboard is hosted on a teammate's Tableau Public account (`jibin.george2730`). Its hosting account does not represent sole authorship of the group project. This repository presents the shared project as part of Kailas's portfolio.
+The shared Tableau dashboard is hosted on a teammate's Tableau Public account (`jibin.george2730`).This repository presents the shared project as part of Kailas's portfolio.
 
 Any future independent extensions will be documented separately, with their scope and author identified.
 
